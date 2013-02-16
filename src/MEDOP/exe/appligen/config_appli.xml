@@ -1,0 +1,17 @@
+<application>
+<prerequisites path="/dn47/SALOME/series6xDEV/MED/Mandriva2010/MED_install/bin/salome/med/appligen/envappli.sh"/>
+
+<modules>
+  <module name="KERNEL" path="/dn47/SALOME/series6xDEV/CURRENT/current06.12.2012/Mandriva2010/KERNEL"/>
+  <module name="GUI" path="/dn47/SALOME/series6xDEV/CURRENT/current06.12.2012/Mandriva2010/GUI"/>
+  <module name="GEOM" path="/dn47/SALOME/series6xDEV/CURRENT/current06.12.2012/Mandriva2010/GEOM"/>
+  <module name="SMESH" path="/dn47/SALOME/series6xDEV/CURRENT/current06.12.2012/Mandriva2010/SMESH"/>
+  <module name="BLSURFPLUGIN" gui="no" path="/dn47/SALOME/series6xDEV/CURRENT/current06.12.2012/Mandriva2010/BLSURFPLUGIN"/>
+  <module name="GHS3DPLUGIN" gui="no" path="/dn47/SALOME/series6xDEV/CURRENT/current06.12.2012/Mandriva2010/GHS3DPLUGIN"/>
+  <module name="NETGENPLUGIN" gui="no" path="/dn47/SALOME/series6xDEV/CURRENT/current06.12.2012/Mandriva2010/NETGENPLUGIN"/>
+  <module name="MED" path="/dn47/SALOME/series6xDEV/MED/Mandriva2010/MED_install"/>
+  <module name="VISU" path="/dn47/SALOME/series6xDEV/CURRENT/current06.12.2012/Mandriva2010/VISU"/>
+  <module name="YACS" path="/dn47/SALOME/series6xDEV/CURRENT/current06.12.2012/Mandriva2010/YACS"/>
+  <module name="PARAVIS" path="/dn47/SALOME/series6xDEV/CURRENT/current06.12.2012/Mandriva2010/PARAVIS"/>
+</modules>
+</application>
